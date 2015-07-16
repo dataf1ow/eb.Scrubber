@@ -1,7 +1,7 @@
 # eb.Scrubber
 
 
-This device allows you to control the playhead on any clip playing in the selected tracks, right from your Launchpad or Push.
+This device allows you to control the playhead on any clip playing in the selected tracks, right from your Launchpad or Push. Download the .zip to check it out. 
 
 The Device:
 
