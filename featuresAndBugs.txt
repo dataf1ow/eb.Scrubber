@@ -1,0 +1,9 @@
+Features:
+
+Sublooping: Waiting on description
+‘Rolling’ Mode: Waiting on clarification
+APC40 support.
+
+Bugs:
+
+Win 7 32 bit, no pattern recording. Unable to reproduce. 
