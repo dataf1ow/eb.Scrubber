@@ -25,7 +25,7 @@ The Control Surface:
 
 - The lower scene button will put that track into stutter mode. As long as you hold down a pad, it will continue to trigger at the rate specified by the Clip Quantize parameter. 
 
-On the LP you can change the clip Quantization setting with the other three arrow buttons.
+- On the LP you can change the clip Quantization setting with the other three arrow buttons.
 
 
 For 1.1: 
