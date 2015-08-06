@@ -1,7 +1,7 @@
 # eb.Scrubber
 
 
-This device allows you to control the playhead on any clip playing in the selected tracks, right from your Launchpad or Push. Download the .zip to check it out. 
+This device allows you to control the playhead on any clip playing in the selected tracks, right from your Launchpad, Launchpad Pro or Push. Download the .zip to check it out. 
 
 The Device:
 
@@ -28,9 +28,9 @@ The Control Surface:
 - On the LP you can change the clip Quantization setting with the other three arrow buttons.
 
 
-For 1.1: 
+For 1.2: 
 
 Add generic MIDI support. 
 More quantization options. 
-Launchpad Pro Support. 
+
 
