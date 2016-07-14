@@ -11,7 +11,7 @@ The Device:
 
 - You select tracks with the 'Track' boxes. You can define the length that you want to have control over. One to Four bars, or set it to dynamic to always sync to loop braces. 
 
-- Choose the length of the pattern recorder sequece in multiples of the sequence length. 
+- Choose the length of the pattern recorder sequence in multiples of the sequence length. 
 
 - Choose the color of each row. 
 
@@ -21,9 +21,9 @@ The Control Surface:
 
 - The Undo button will switch to golbal mode. On an LP, the UP arrow will switch to global mode. On QuNeo the Play button enters Global Mode  
 
-- The upper scene button will trigger pattern recording. Depending on the Control Surface you are using, the LEDs will be different. Generally red = record, and green = play You CAN overdub when it's playing. Another press will erase the sequence and get ready to record again. 
+- The upper Scene Button will trigger pattern recording. Depending on the Control Surface you are using, the LEDs will be different. Generally red = record, and green = play. You CAN overdub when it's playing. Another press will erase the sequence and get ready to record again. 
 
-- The lower scene button will put that track into stutter mode. As long as you hold down a pad, it will continue to trigger at the rate specified by the Clip Quantize parameter. 
+- The lower Scene Button will put that track into stutter mode. As long as you hold down a pad, it will continue to trigger at the rate specified by the Clip Quantize parameter. 
 
 - On the LP you can change the clip Quantization setting with the other three arrow buttons.
 
@@ -33,6 +33,6 @@ LP PRO:
 
 QUNEO: 
 
-- If using a QuNeo, upload the QuNeo_Scrubber preset to your device. Set the MIDI input to QuNeo on ch. 15, and the output to QuNeo on ch. 15. Due to M4L not being able to deal with multiple channels, or sysex data, you have to hit the Rhombus button to initialize the interface in some cases. 
+- If using a QuNeo, upload the QuNeo_Scrubber preset to your device. Set the MIDI input to QuNeo on Ch. 15, and the output to QuNeo on Ch. 15. Due to M4L not being able to deal with multiple channels, or sysex data, you have to hit the Rhombus button to initialize the interface in some cases. 
 
 
